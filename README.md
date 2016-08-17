@@ -22,7 +22,7 @@ pod "SHBinarySearchForRange"
 
 ## Author
 
-shabib87, shabib.sust@gmail.com
+Ahmad Shabibul Hossain
 
 ## License
 

@@ -2,10 +2,5 @@ use_frameworks!
 
 target 'SHBinarySearchForRange_Example' do
   pod 'SHBinarySearchForRange', :path => '../'
-
-  target 'SHBinarySearchForRange_Tests' do
-    inherit! :search_paths
-
-    
-  end
+  
 end

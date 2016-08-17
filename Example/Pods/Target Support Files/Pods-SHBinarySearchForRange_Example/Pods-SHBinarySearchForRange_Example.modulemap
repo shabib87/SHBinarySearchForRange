@@ -1,0 +1,6 @@
+framework module Pods_SHBinarySearchForRange_Example {
+  umbrella header "Pods-SHBinarySearchForRange_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

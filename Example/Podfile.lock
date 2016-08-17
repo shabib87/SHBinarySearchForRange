@@ -1,0 +1,14 @@
+PODS:
+  - SHBinarySearchForRange (0.1.0)
+
+DEPENDENCIES:
+  - SHBinarySearchForRange (from `../`)
+
+EXTERNAL SOURCES:
+  SHBinarySearchForRange:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SHBinarySearchForRange: ef9d6dbee9e0b19b487a2c56a43f7954f591971c
+
+COCOAPODS: 0.39.0
