@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-Binary search on an array for a given range.
+Binary search on an array for a given set of range.
                        DESC
 
   s.homepage         = 'https://github.com/shabib87/SHBinarySearchForRange'
