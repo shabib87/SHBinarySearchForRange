@@ -7,6 +7,7 @@
 //
 
 #import "SHViewController.h"
+#import "SHBinarySearchForRange.h"
 
 @interface SHViewController ()
 

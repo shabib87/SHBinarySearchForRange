@@ -10,4 +10,7 @@
 
 @interface SHBinarySearchForRange : NSObject
 
+- (id)initWithValues:(NSArray *)values;
+- (NSInteger)indexOfClosestCeilingForSearchItem:(double)_searchItem;
+
 @end
