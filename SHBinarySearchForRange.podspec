@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SHBinarySearchForRange'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A simple library to perform binary search to find the nearest double/float value from a double/float array for a given double/float.'
 
 # This description is used to generate tags and improve search results.
