@@ -4,13 +4,14 @@
 [![License](https://img.shields.io/cocoapods/l/SHBinarySearchForRange.svg?style=flat)](http://cocoapods.org/pods/SHBinarySearchForRange)
 [![Platform](https://img.shields.io/cocoapods/p/SHBinarySearchForRange.svg?style=flat)](http://cocoapods.org/pods/SHBinarySearchForRange)
 
-Still under development!
+## Overview
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+This cocoapod helps to find the nearest ceiling double/float value from a double/float array by performing a binary search operation. 
 
 ## Requirements
+
+* ARC
+* iOS7
 
 ## Installation
 
@@ -19,6 +20,21 @@ it, simply add the following line to your Podfile:
 
 ```ruby
 pod "SHBinarySearchForRange"
+```
+
+## Usage
+
+```ObjC
+#import "SHBinarySearchForRange.h"
+
+NSArray *array = @[@0.12f, @0.23f, @0.3f, @0.345f, @0.967f, @1.0f];
+SHBinarySearchForRange *binarySearch = [[SHBinarySearchForRange alloc] initWithValues:array];
+
+NSInteger index = [binarySearch indexOfClosestCeilingForSearchItem:10.67575f];
+NSNumber *valAtIndex = [array objectAtIndex:index];
+
+NSLog(@"Value close to range: %f", valAtIndex.doubleValue);
+
 ```
 
 ## Author
