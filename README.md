@@ -1,9 +1,10 @@
 # SHBinarySearchForRange
 
-[![CI Status](http://img.shields.io/travis/shabib87/SHBinarySearchForRange.svg?style=flat)](https://travis-ci.org/shabib87/SHBinarySearchForRange)
 [![Version](https://img.shields.io/cocoapods/v/SHBinarySearchForRange.svg?style=flat)](http://cocoapods.org/pods/SHBinarySearchForRange)
 [![License](https://img.shields.io/cocoapods/l/SHBinarySearchForRange.svg?style=flat)](http://cocoapods.org/pods/SHBinarySearchForRange)
 [![Platform](https://img.shields.io/cocoapods/p/SHBinarySearchForRange.svg?style=flat)](http://cocoapods.org/pods/SHBinarySearchForRange)
+
+Still under development!
 
 ## Example
 
