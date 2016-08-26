@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  SHBinarySearchForRange: ef9d6dbee9e0b19b487a2c56a43f7954f591971c
+  SHBinarySearchForRange: 5bd6d45c93d2d5cb0d12d7c7b418a83ef6226e73
 
 COCOAPODS: 0.39.0

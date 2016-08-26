@@ -1,0 +1,1 @@
+../../../../../SHBinarySearchForRange/Classes/SHBinarySearchForRange.h

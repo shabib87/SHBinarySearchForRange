@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SHBinarySearchForRange'
   s.version          = '0.1.0'
-  s.summary          = 'Binary search on an array for a given range.'
+  s.summary          = 'A simple library to perform binary search to find the nearest double/float value from a double/float array for a given double/float.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-Binary search on an array for a given set of range.
+This cocoapod helps to find the nearest ceiling double/float value from a double/float array by performing a binary search operation. 
                        DESC
 
   s.homepage         = 'https://github.com/shabib87/SHBinarySearchForRange'
@@ -28,7 +28,7 @@ Binary search on an array for a given set of range.
   s.source           = { :git => 'https://github.com/shabib87/SHBinarySearchForRange.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/shabib_hossain'
 
-  s.ios.deployment_target = '7.0'
+  s.ios.deployment_target = '8.0'
 
   s.source_files = 'SHBinarySearchForRange/Classes/**/*'
   

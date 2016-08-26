@@ -1,22 +1,23 @@
 {
   "name": "SHBinarySearchForRange",
   "version": "0.1.0",
-  "summary": "A short description of SHBinarySearchForRange.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/SHBinarySearchForRange",
+  "summary": "Binary search on an array for a given range.",
+  "description": "Binary search on an array for a given set of range.",
+  "homepage": "https://github.com/shabib87/SHBinarySearchForRange",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "shabib87": "shabib.sust@gmail.com"
+    "Ahmad Shabibul Hossain": "shabib.sust@gmail.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/SHBinarySearchForRange.git",
+    "git": "https://github.com/shabib87/SHBinarySearchForRange.git",
     "tag": "0.1.0"
   },
+  "social_media_url": "https://twitter.com/shabib_hossain",
   "platforms": {
-    "ios": "8.0"
+    "ios": "7.0"
   },
   "source_files": "SHBinarySearchForRange/Classes/**/*"
 }

@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		17B3908C2C0EBFCE67282B6F530384BF /* SHBinarySearchForRange.h in Headers */ = {isa = PBXBuildFile; fileRef = 638ECE6BA0DB52F529E95562259C712E /* SHBinarySearchForRange.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2720577BB21ADE2ED801C1DCF8DA3530 /* Pods-SHBinarySearchForRange_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B299AF38B90199981FC6331CBD51DCD /* Pods-SHBinarySearchForRange_Example-dummy.m */; };
 		443CACC7CDEF692B6D3A393F131D4FE4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
-		9BB4099E70A37DA0EBA83C335551A95D /* SHBinarySearchForRange-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5C7A5D199729103BAD4D6446D4A87754 /* SHBinarySearchForRange-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5804D815A7E09024D28C0F4D39FC5DB5 /* SHBinarySearchForRange-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C1B7B1E768E26515044FAFFE2B4E88A /* SHBinarySearchForRange-dummy.m */; };
+		78268C27A19CDCAAED45413B5872C195 /* SHBinarySearchForRange-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5C7A5D199729103BAD4D6446D4A87754 /* SHBinarySearchForRange-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		ABA71B415CC23BAEB199B8225A3CEC2B /* Pods-SHBinarySearchForRange_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D8C5FB14031028FCECDCC5DA1E7A68C7 /* Pods-SHBinarySearchForRange_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B053446F4C871072DF53AEEF277D97BD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
-		DB9DCDE5C2AF149A46AA60CED52838E0 /* SHBinarySearchForRange-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C1B7B1E768E26515044FAFFE2B4E88A /* SHBinarySearchForRange-dummy.m */; };
-		F00A9C4A1D64EEE800A09529 /* SHBinarySearchForRange.h in Headers */ = {isa = PBXBuildFile; fileRef = F00A9C481D64EEE800A09529 /* SHBinarySearchForRange.h */; };
-		F00A9C4B1D64EEE800A09529 /* SHBinarySearchForRange.m in Sources */ = {isa = PBXBuildFile; fileRef = F00A9C491D64EEE800A09529 /* SHBinarySearchForRange.m */; };
+		EAA348B224F7B8AF3223AAB20948D7F6 /* SHBinarySearchForRange.m in Sources */ = {isa = PBXBuildFile; fileRef = 09CCA81394DFC33CB7009A1DEFD8381A /* SHBinarySearchForRange.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		09CCA81394DFC33CB7009A1DEFD8381A /* SHBinarySearchForRange.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SHBinarySearchForRange.m; sourceTree = "<group>"; };
 		29C549BC75CC881314ECAA0AD907FD27 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2F7825D78CF65F753F63F141AD912E52 /* SHBinarySearchForRange.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SHBinarySearchForRange.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		34CE3A37B44E91A36767EC8BDF985EA6 /* SHBinarySearchForRange-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SHBinarySearchForRange-prefix.pch"; sourceTree = "<group>"; };
@@ -36,6 +37,7 @@
 		3FC7E07F899362CCF3ED0DA30B8419E9 /* Pods-SHBinarySearchForRange_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SHBinarySearchForRange_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		4E1CBB9AD88C621A36F2EC23653F7E11 /* SHBinarySearchForRange.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SHBinarySearchForRange.xcconfig; sourceTree = "<group>"; };
 		5C7A5D199729103BAD4D6446D4A87754 /* SHBinarySearchForRange-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SHBinarySearchForRange-umbrella.h"; sourceTree = "<group>"; };
+		638ECE6BA0DB52F529E95562259C712E /* SHBinarySearchForRange.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SHBinarySearchForRange.h; sourceTree = "<group>"; };
 		65FAED5092EE8BD3847938BDAF193ADB /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6883A2E246D82CE8CC0105288CAD0B75 /* SHBinarySearchForRange.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = SHBinarySearchForRange.modulemap; sourceTree = "<group>"; };
 		69E82A4022EE734BDC7080747680E3FB /* Pods-SHBinarySearchForRange_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SHBinarySearchForRange_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -48,8 +50,6 @@
 		C8CECD3B2748FE5640C215336EB858F6 /* Pods-SHBinarySearchForRange_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SHBinarySearchForRange_Example.release.xcconfig"; sourceTree = "<group>"; };
 		D8C5FB14031028FCECDCC5DA1E7A68C7 /* Pods-SHBinarySearchForRange_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SHBinarySearchForRange_Example-umbrella.h"; sourceTree = "<group>"; };
 		DFDC1E8F14D991AA3A89FB86E7DCCABC /* Pods-SHBinarySearchForRange_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SHBinarySearchForRange_Example-resources.sh"; sourceTree = "<group>"; };
-		F00A9C481D64EEE800A09529 /* SHBinarySearchForRange.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SHBinarySearchForRange.h; sourceTree = "<group>"; };
-		F00A9C491D64EEE800A09529 /* SHBinarySearchForRange.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SHBinarySearchForRange.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,27 +126,10 @@
 			);
 			sourceTree = "<group>";
 		};
-		96C95BD163E12375B397B18ABC0CC064 /* SHBinarySearchForRange */ = {
-			isa = PBXGroup;
-			children = (
-				9D83F566DFB132821E3CE5F379C286DB /* Classes */,
-			);
-			path = SHBinarySearchForRange;
-			sourceTree = "<group>";
-		};
-		9D83F566DFB132821E3CE5F379C286DB /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				F00A9C481D64EEE800A09529 /* SHBinarySearchForRange.h */,
-				F00A9C491D64EEE800A09529 /* SHBinarySearchForRange.m */,
-			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
 		A22ED4872FA154CE622025C083FDF0F2 /* SHBinarySearchForRange */ = {
 			isa = PBXGroup;
 			children = (
-				96C95BD163E12375B397B18ABC0CC064 /* SHBinarySearchForRange */,
+				E60C4A09036032BB516DD0B29B4A99AE /* SHBinarySearchForRange */,
 				BBB0CE9851727D65AB0F51D8748E22B7 /* Support Files */,
 			);
 			name = SHBinarySearchForRange;
@@ -175,12 +158,29 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		BDBD9D7F7201589C4C90D90D1B95ED77 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				638ECE6BA0DB52F529E95562259C712E /* SHBinarySearchForRange.h */,
+				09CCA81394DFC33CB7009A1DEFD8381A /* SHBinarySearchForRange.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		BF6342C8B29F4CEEA088EFF7AB4DE362 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
 				3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */,
 			);
 			name = iOS;
+			sourceTree = "<group>";
+		};
+		E60C4A09036032BB516DD0B29B4A99AE /* SHBinarySearchForRange */ = {
+			isa = PBXGroup;
+			children = (
+				BDBD9D7F7201589C4C90D90D1B95ED77 /* Classes */,
+			);
+			path = SHBinarySearchForRange;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -190,16 +190,16 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F00A9C4A1D64EEE800A09529 /* SHBinarySearchForRange.h in Headers */,
 				ABA71B415CC23BAEB199B8225A3CEC2B /* Pods-SHBinarySearchForRange_Example-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F3AD788B0E0E5D40746DEFD2E82B9349 /* Headers */ = {
+		9ED5375ACA0FAB524B73A43869F0FE8A /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9BB4099E70A37DA0EBA83C335551A95D /* SHBinarySearchForRange-umbrella.h in Headers */,
+				78268C27A19CDCAAED45413B5872C195 /* SHBinarySearchForRange-umbrella.h in Headers */,
+				17B3908C2C0EBFCE67282B6F530384BF /* SHBinarySearchForRange.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -228,9 +228,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 7740AD1BA4945E8DBE9A1CBC7EA337C1 /* Build configuration list for PBXNativeTarget "SHBinarySearchForRange" */;
 			buildPhases = (
-				8F3439D6675B918F8978C255288E6E3B /* Sources */,
+				0EE77D4A207F29EBE8F01405826D6650 /* Sources */,
 				86E7AB86A244D6074DDA8885CCC4B5B8 /* Frameworks */,
-				F3AD788B0E0E5D40746DEFD2E82B9349 /* Headers */,
+				9ED5375ACA0FAB524B73A43869F0FE8A /* Headers */,
 			);
 			buildRules = (
 			);
@@ -269,20 +269,20 @@
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
+		0EE77D4A207F29EBE8F01405826D6650 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5804D815A7E09024D28C0F4D39FC5DB5 /* SHBinarySearchForRange-dummy.m in Sources */,
+				EAA348B224F7B8AF3223AAB20948D7F6 /* SHBinarySearchForRange.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		555A821CE3FB1DA277BA2A11090DB3AB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				2720577BB21ADE2ED801C1DCF8DA3530 /* Pods-SHBinarySearchForRange_Example-dummy.m in Sources */,
-				F00A9C4B1D64EEE800A09529 /* SHBinarySearchForRange.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		8F3439D6675B918F8978C255288E6E3B /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				DB9DCDE5C2AF149A46AA60CED52838E0 /* SHBinarySearchForRange-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,38 +298,7 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		0CB983CF9050F6DBDA5D8A4B86D07804 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 69E82A4022EE734BDC7080747680E3FB /* Pods-SHBinarySearchForRange_Example.debug.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-SHBinarySearchForRange_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-SHBinarySearchForRange_Example/Pods-SHBinarySearchForRange_Example.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_SHBinarySearchForRange_Example;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		10DE1947DAC0ED28F6C0A9F9BD75D546 /* Release */ = {
+		052A17875CB827423D627183396CEB60 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -356,14 +325,14 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				STRIP_INSTALLED_PRODUCT = NO;
 				SYMROOT = "${SRCROOT}/../build";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		190066FC301A840DAAD58E0568F64AE7 /* Debug */ = {
+		1A1B74C643FBA572C0B75439FDCDEA62 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 4E1CBB9AD88C621A36F2EC23653F7E11 /* SHBinarySearchForRange.xcconfig */;
 			buildSettings = {
@@ -377,7 +346,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/SHBinarySearchForRange/SHBinarySearchForRange-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/SHBinarySearchForRange/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/SHBinarySearchForRange/SHBinarySearchForRange.modulemap";
 				MTL_ENABLE_DEBUG_INFO = YES;
@@ -391,7 +360,35 @@
 			};
 			name = Debug;
 		};
-		1BCFC4FAAC82D2B3826E876C157FA4CF /* Release */ = {
+		33440C7CF8562F3F44DC9F90666F473C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4E1CBB9AD88C621A36F2EC23653F7E11 /* SHBinarySearchForRange.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/SHBinarySearchForRange/SHBinarySearchForRange-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SHBinarySearchForRange/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/SHBinarySearchForRange/SHBinarySearchForRange.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = SHBinarySearchForRange;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		9A1066F0620E838D9EB433AEC34CB677 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C8CECD3B2748FE5640C215336EB858F6 /* Pods-SHBinarySearchForRange_Example.release.xcconfig */;
 			buildSettings = {
@@ -404,7 +401,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				INFOPLIST_FILE = "Target Support Files/Pods-SHBinarySearchForRange_Example/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-SHBinarySearchForRange_Example/Pods-SHBinarySearchForRange_Example.modulemap";
@@ -422,7 +419,7 @@
 			};
 			name = Release;
 		};
-		552D02D5BA751AC2E8790D2811D496CA /* Debug */ = {
+		B37F0F91F85060E28F1DAAB522DC7EC1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -455,16 +452,16 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				ONLY_ACTIVE_ARCH = YES;
 				STRIP_INSTALLED_PRODUCT = NO;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
 		};
-		607F899B504457A3113BC26A48C1B4F9 /* Release */ = {
+		F1F13538F908F28EF2233A9526A7BFAA /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4E1CBB9AD88C621A36F2EC23653F7E11 /* SHBinarySearchForRange.xcconfig */;
+			baseConfigurationReference = 69E82A4022EE734BDC7080747680E3FB /* Pods-SHBinarySearchForRange_Example.debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -473,22 +470,25 @@
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/SHBinarySearchForRange/SHBinarySearchForRange-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/SHBinarySearchForRange/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-SHBinarySearchForRange_Example/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/SHBinarySearchForRange/SHBinarySearchForRange.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-SHBinarySearchForRange_Example/Pods-SHBinarySearchForRange_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = SHBinarySearchForRange;
+				PRODUCT_NAME = Pods_SHBinarySearchForRange_Example;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
 /* End XCBuildConfiguration section */
 
@@ -496,8 +496,8 @@
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				552D02D5BA751AC2E8790D2811D496CA /* Debug */,
-				10DE1947DAC0ED28F6C0A9F9BD75D546 /* Release */,
+				B37F0F91F85060E28F1DAAB522DC7EC1 /* Debug */,
+				052A17875CB827423D627183396CEB60 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -505,8 +505,8 @@
 		7740AD1BA4945E8DBE9A1CBC7EA337C1 /* Build configuration list for PBXNativeTarget "SHBinarySearchForRange" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				190066FC301A840DAAD58E0568F64AE7 /* Debug */,
-				607F899B504457A3113BC26A48C1B4F9 /* Release */,
+				1A1B74C643FBA572C0B75439FDCDEA62 /* Debug */,
+				33440C7CF8562F3F44DC9F90666F473C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -514,8 +514,8 @@
 		A3E867D0D22E3A221F37FF81EEF09A2B /* Build configuration list for PBXNativeTarget "Pods-SHBinarySearchForRange_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0CB983CF9050F6DBDA5D8A4B86D07804 /* Debug */,
-				1BCFC4FAAC82D2B3826E876C157FA4CF /* Release */,
+				F1F13538F908F28EF2233A9526A7BFAA /* Debug */,
+				9A1066F0620E838D9EB433AEC34CB677 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
