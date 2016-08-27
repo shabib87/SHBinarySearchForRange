@@ -1,8 +1,8 @@
 {
   "name": "SHBinarySearchForRange",
-  "version": "0.1.0",
-  "summary": "Binary search on an array for a given range.",
-  "description": "Binary search on an array for a given set of range.",
+  "version": "0.1.2",
+  "summary": "A simple library to perform binary search to find the nearest double/float value from a double/float array for a given double/float.",
+  "description": "This cocoapod helps to find the nearest ceiling double/float value from a double/float array by performing a binary search operation.",
   "homepage": "https://github.com/shabib87/SHBinarySearchForRange",
   "license": {
     "type": "MIT",
@@ -13,11 +13,13 @@
   },
   "source": {
     "git": "https://github.com/shabib87/SHBinarySearchForRange.git",
-    "tag": "0.1.0"
+    "tag": "0.1.2"
   },
   "social_media_url": "https://twitter.com/shabib_hossain",
   "platforms": {
-    "ios": "7.0"
+    "ios": "8.0"
   },
-  "source_files": "SHBinarySearchForRange/Classes/**/*"
+  "requires_arc": true,
+  "source_files": "SHBinarySearchForRange/Classes/**/*",
+  "frameworks": "Foundation"
 }

@@ -1,5 +1,5 @@
 PODS:
-  - SHBinarySearchForRange (0.1.0)
+  - SHBinarySearchForRange (0.1.2)
 
 DEPENDENCIES:
   - SHBinarySearchForRange (from `../`)
@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  SHBinarySearchForRange: 5bd6d45c93d2d5cb0d12d7c7b418a83ef6226e73
+  SHBinarySearchForRange: ebd1e07ae3504f5d88c8ac164d85e61933e2807d
 
 COCOAPODS: 0.39.0

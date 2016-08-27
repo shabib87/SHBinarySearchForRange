@@ -11,7 +11,7 @@ This cocoapod helps to find the nearest ceiling double/float value from a double
 ## Requirements
 
 * ARC
-* iOS7
+* iOS8
 
 ## Installation
 

@@ -4,3 +4,7 @@ target 'SHBinarySearchForRange_Example' do
   pod 'SHBinarySearchForRange', :path => '../'
   
 end
+
+target 'SHBinarySearchForRange_Tests', :exclusive => true do
+    pod 'SHBinarySearchForRange', :path => '../'
+end
