@@ -39,7 +39,12 @@ NSLog(@"Value close to range: %f", valAtIndex.doubleValue);
 
 ## Author
 
-Ahmad Shabibul Hossain
+**Created by** Ahmad Shabibul Hossain, [@shabib_hossain](https://twitter.com/shabib_hossain).
+
+## Contact
+
+I would love to get some feedback, ideas for improvements that should be included in this project.
+I would also greatly appreciate if you follow me on [@shabib_hossain](https://twitter.com/shabib_hossain).
 
 ## License
 
