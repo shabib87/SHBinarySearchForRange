@@ -43,8 +43,7 @@ NSLog(@"Value close to range: %f", valAtIndex.doubleValue);
 
 ## Contact
 
-I would love to get some feedback, ideas for improvements that should be included in this project.
-I would also greatly appreciate if you follow me on [@shabib_hossain](https://twitter.com/shabib_hossain).
+Share feedbacks and ideas to imrpove this project, I would love to hear them out. I would also greatly appreciate if you follow me on [@shabib_hossain](https://twitter.com/shabib_hossain).
 
 ## License
 
