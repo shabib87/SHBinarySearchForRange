@@ -1,3 +1,4 @@
+![SHBinarySearchForRange](Images/codewithshabib.png)
 # SHBinarySearchForRange
 
 [![Version](https://img.shields.io/cocoapods/v/SHBinarySearchForRange.svg?style=flat)](http://cocoapods.org/pods/SHBinarySearchForRange)
